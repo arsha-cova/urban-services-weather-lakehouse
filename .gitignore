@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Databricks / Cloud
+*.log
+*.dbc
+*.dbc-log
+
+# IDEs
+.idea/
+.vscode/
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Credentials
+*.json
+*.key
+*.pem
+*.crt
